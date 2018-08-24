@@ -1,6 +1,6 @@
 First Project
 
-This is the First Project to illustrate the following on Git and GitHub
+This is the First Project to illustrate the following using Git and GitHub
 1. How to Clone.
 2. How to add Collaborators
 3. How to Push code to GitHub.
